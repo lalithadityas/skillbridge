@@ -11,7 +11,7 @@
   <p align="center">
     <a href="https://skillbridgeorg.vercel.app"><strong>View Live Demo »</strong></a>
     ·
-    <a href="docs/06-api.md"><strong>Explore API Docs »</strong></a>
+    <a href="docs/06-api"><strong>Explore API Docs »</strong></a>
     ·
     <a href="https://github.com/lalithadityas/SkillBridge/issues/new?labels=bug">Report Bug</a>
     ·
